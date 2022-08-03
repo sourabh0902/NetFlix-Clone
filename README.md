@@ -12,4 +12,4 @@ displayed in the card is related to it's genre.
 # API:
 - tmdb
 
-![alt text](https://drive.google.com/file/d/1btm_5C_0XQVdgTkw1PL_jN_uUXelqvsF/view?usp=sharing)
+![alt text]()
