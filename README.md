@@ -12,8 +12,10 @@ displayed in the card is related to it's genre.
 # API:
 - tmdb
 
-![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(16).png)
+# Screenshots of my work:
 
-![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(17).png)
+- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(16).png)
 
-![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(18).png)
+- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(17).png)
+
+- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(18).png)
