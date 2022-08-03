@@ -12,4 +12,4 @@ displayed in the card is related to it's genre.
 # API:
 - tmdb
 
-![alt text]()
+![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(16).png)
