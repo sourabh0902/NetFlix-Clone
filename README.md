@@ -20,7 +20,7 @@ displayed in the card is related to it's genre.
 
 - ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(18).png)
 
-#Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
