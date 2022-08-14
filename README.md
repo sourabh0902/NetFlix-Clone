@@ -14,11 +14,11 @@ displayed in the card is related to it's genre.
 
 # Screenshots of my work:
 
-- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(16).png)
+- ![ScreenShot 1](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(16).png)
 
-- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(17).png)
+- ![ScreenShot 2](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(17).png)
 
-- ![alt text](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(18).png)
+- ![ScreenShot 3](https://github.com/sourabh0902/NetFlix-Clone/blob/master/public/img/Screenshot%20(18).png)
 
 # Available Scripts
 
